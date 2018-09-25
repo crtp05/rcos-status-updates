@@ -1,14 +1,15 @@
 ## Last Week's Accomplishments
 
-> learning basic of web crawler and prepare to install the databse
+> Installing enviorment for local machine
 
 ## This Week's Plan
 
-> develop the database after Wednesday meeting. We will discuss how many information what need to store in our database
+> Learning the basic of web crawler and furthur test our crawler.
 
 ## Anything Blocking?
 
-> not yet xD
+> There is a issue installing python on my computer. reinstalled pip and used another terminal to fix this problem.
 
 ## Notes
 
+> 

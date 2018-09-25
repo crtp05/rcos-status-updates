@@ -1,14 +1,14 @@
 ## Last Week's Accomplishments
 
-> Installing enviorment for local machine
+> First week xD
 
 ## This Week's Plan
 
-> Learning the basic of web crawler and furthur test our crawler.
+> Discuss our achitecture. langueges we use. elements in the database etc.
 
 ## Anything Blocking?
 
-> There is a issue installing python on my computer. reinstalled pip and used another terminal to fix this problem.
+> We cannot decide how much information we need to store in our database. We will discuss this again after designing our front-end
 
 ## Notes
 
